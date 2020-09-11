@@ -1,5 +1,7 @@
 # Oracle-WLS-Weblogic-RCE
 (CVE-2019-2725) Oracle WLS(Weblogic) RCE test sciript
+This Security Alert addresses CVE-2019-2725, a deserialization vulnerability in Oracle WebLogic Server. This remote code execution vulnerability is remotely exploitable without authentication. 
+This script which check the presence or absence of a page is based on Python2. 
 
 Usage>
 
@@ -7,6 +9,3 @@ Usage>
     
     python Oracle WLS(Weblogic) RCE(CVE-2019-2725).py <dst_ip> (default : 80/tcp)
        
-Script based on Python2
-
-Just using Vuln Test for your System
