@@ -3,7 +3,7 @@
 
 CVE-2019-2725 is a deserialization vulnerability in Oracle WebLogic Server. This remote code execution vulnerability is remotely exploitable without authentication. 
 
-This script which check the presence or absence of a page is based on Python2. 
+This script which check the presence or absence of a page is based on Python3. (Updated. 20.11.07.)
 
 Usage>
 
